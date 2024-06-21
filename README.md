@@ -6,8 +6,9 @@
 
 ### Kanıtları test ağına göndermek için Aligned'ı indirip yükleyin:
 
-```curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batcher/aligned/install_aligned.sh | bash```
-'''source /root/.bashrc'''
+```bash curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batcher/aligned/install_aligned.sh | bash```
+
+```source /root/.bashrc```
 
 ### Aşağıdakileri kullanarak ELF dosyasıyla birlikte örnek bir SP1 kanıt dosyasını indirin:
 
