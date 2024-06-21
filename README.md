@@ -6,7 +6,8 @@
 
 ### Kanıtları test ağına göndermek için Aligned'ı indirip yükleyin:
 
-```bash curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batcher/aligned/install_aligned.sh | bash```
+```bash 
+curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batcher/aligned/install_aligned.sh | bash```
 
 ```source /root/.bashrc```
 
